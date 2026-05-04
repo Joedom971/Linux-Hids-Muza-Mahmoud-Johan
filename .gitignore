@@ -1,0 +1,18 @@
+# Runtime state
+run/
+logs/*.log
+logs/*.json
+logs/*.status
+logs/raw_events.log
+logs/pipeline.log
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Backups
+*.bak
+*.orig
